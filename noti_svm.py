@@ -53,7 +53,7 @@ y_pred = clf.predict(X_test)
 print("Accuracy:", accuracy_score(y_test, y_pred))
 
 # Webカメラのキャプチャを開始
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 
 last_check_time = time.time()  # 最後にチェックした時間を記録
 last_prediction = None  # 前回の予測を記録
