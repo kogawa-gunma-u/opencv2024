@@ -7,6 +7,8 @@
 　Pythonの実行のためにパソコンにAnacondaと呼ばれるソフトウェアをインストールしてください。
  
  [インストール手順]
+
+ この手順の[動画](https://pages.github.com/)
  
 2.Visual Studio Codeのインストール方法
 
