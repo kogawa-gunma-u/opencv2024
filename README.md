@@ -7,6 +7,15 @@
 　Pythonの実行のためにパソコンにAnacondaと呼ばれるソフトウェアをインストールしてください。
  
  [インストール手順]
+ 1.https://www.anaconda.com/download/
+ アクセスし、「ｓkip-registration」のリンクをクリックします。
+ ２．該当するパソコンのOS（WindowｓやMacOSのプログラムをダウンロードします。
+ Windowsの場合は
+        Python 3.12
+        64-Bit Graphical Installer (912.3M)
+をクリックしてダウンロードしてください。
+　　３．　ダウンロードしたファイルをダブルクリックして実行します。
+　　４．　基本的に次へをクリックしてすすみます。
 
  この手順の[動画](https://pages.github.com/)
  
