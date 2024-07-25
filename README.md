@@ -5,6 +5,7 @@
 1.Anacondaのインストール方法
 
 　Pythonの実行のためにパソコンにAnacondaと呼ばれるソフトウェアをインストールしてください。
+ 
  [インストール手順]
  
 2.Visual Studio Codeのインストール方法
