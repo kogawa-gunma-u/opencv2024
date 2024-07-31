@@ -20,7 +20,7 @@
   
 　　４．　基本的に次へをクリックしてすすみます。
 
- この手順の[動画](https://pages.github.com/)
+ この手順の[動画](https://youtu.be/dzKZcIu0SBI)
  
 2.Visual Studio Codeのインストール方法
 
@@ -31,6 +31,8 @@
 3.ファイルのダウンロードと展開
 
 　動画内のファイルを実行するときに必要です。
+
+この手順の[動画](https://youtu.be/vMu1b1R7T80)
  
 4.Pythonファイルの実行
 
