@@ -29,6 +29,7 @@
  「エディタ」とよばれるツールが必要になります。
 
 ・ブラウザで(https://code.visualstudio.com/Download) にアクセスする。
+
 ・利用しているWindowsかMacを選んで、ダウンロードしてください。
 
 この手順の[動画](https://youtu.be/dzKZcIu0SBI)
